@@ -1,6 +1,6 @@
 {
 "car" : "H33",
-"ecu: : "CDCU"
+"ecu" : "CDCU"
 
 
 }
