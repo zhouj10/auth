@@ -1,4 +1,3 @@
-[
     {
         "canoe": "16",
         "cfg_type": "CAN",
@@ -84,4 +83,3 @@
         ],
         "repeat_times": 1
     }
-]
