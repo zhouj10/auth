@@ -1,6 +1,7 @@
     {
         "canoe": "16",
         "cfg_type": "CAN",
+        "test_au":"True",
         "cfg_name": "E:\\EEA_multiECU_Test\\TestModule_demo.cfg",
         "hdconf": "",
         "BusActive": "",
