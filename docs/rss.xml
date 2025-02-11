@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>nezha</title><link>https://zhouj10.github.io/auth</link><description>Blog</description><copyright>nezha</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://zhouj10.github.io/auth</link></image><lastBuildDate>Mon, 10 Feb 2025 09:00:16 +0000</lastBuildDate><managingEditor>nezha</managingEditor><ttl>60</ttl><webMaster>nezha</webMaster><item><title>Auth2</title><link>https://zhouj10.github.io/auth/post/Auth2.html</link><description>Hello Python!。</description><guid isPermaLink="true">https://zhouj10.github.io/auth/post/Auth2.html</guid><pubDate>Sun, 23 Jun 2024 14:40:19 +0000</pubDate></item><item><title>MyAuth</title><link>https://zhouj10.github.io/auth/post/MyAuth.html</link><description>{
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>nezha</title><link>https://zhouj10.github.io/auth</link><description>Blog</description><copyright>nezha</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://zhouj10.github.io/auth</link></image><lastBuildDate>Tue, 11 Feb 2025 06:15:18 +0000</lastBuildDate><managingEditor>nezha</managingEditor><ttl>60</ttl><webMaster>nezha</webMaster><item><title>Auth2</title><link>https://zhouj10.github.io/auth/post/Auth2.html</link><description>Hello Python!。</description><guid isPermaLink="true">https://zhouj10.github.io/auth/post/Auth2.html</guid><pubDate>Sun, 23 Jun 2024 14:40:19 +0000</pubDate></item><item><title>MyAuth</title><link>https://zhouj10.github.io/auth/post/MyAuth.html</link><description>{
         'canoe': '16',
         'cfg_type': 'CAN',
         'test_au':'True',
         'cfg_name': 'E:\\EEA_multiECU_Test\\TestModule_demo.cfg',
-        'hdconf': '',
+        'hdconf': '2025-02-11',
         'BusActive': '',
         'tse_path': 'E:\\EEA_multiECU_Test\\Test Environment.tse',
         'dbc_basepath': 'False',

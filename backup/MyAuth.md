@@ -3,7 +3,7 @@
         "cfg_type": "CAN",
         "test_au":"True",
         "cfg_name": "E:\\EEA_multiECU_Test\\TestModule_demo.cfg",
-        "hdconf": "",
+        "hdconf": "2025-02-11",
         "BusActive": "",
         "tse_path": "E:\\EEA_multiECU_Test\\Test Environment.tse",
         "dbc_basepath": "False",
