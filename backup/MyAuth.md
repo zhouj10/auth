@@ -7,6 +7,6 @@
         "percent": "80",
         "tse_path": "Test Environment.tse",
         "dbc_basepath": "False",
-        "HexNeed": "True",
+        "canoe_api": "2025-02-10",
         "repeat_times": 1
     }
