@@ -36,6 +36,7 @@ jobs:
       - name: Clone source code
         run: |
           GMEEK_VERSION=$(jq -r ".GMEEK_VERSION" config.json)
+          rm -rf ~/Gmeek;
           git clone https://github.com/Meekdai/Gmeek.git ~/Gmeek;
           cd ~/Gmeek/
           lastTag=$(git describe --tags `git rev-list --tags --max-count=1`)
